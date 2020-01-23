@@ -43,6 +43,10 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781789805826_ColorImages.pdf).
 
+## Errata
+* Page 87 (Paragraph 1, line 7): **Editing the fields within a form control:** _should be_ **Editing the fields within the form control:**
+* Page 92 (Paragraph 1, line 1): **Create a new Team site named it Griffton IT Assets** _should be_ **Create a new Team site named Griffton IT Assets and click on Next**
+
 ### Related products
 * Microsoft Dynamics 365 Business Central Cookbook  [[Packt]](https://www.packtpub.com/in/business-other/microsoft-dynamics-365-business-central-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789958547)
 
